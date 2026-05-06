@@ -7,7 +7,7 @@
 </div>
 
 ###
-<div align="center>
+<div align="center">
 <img align="center" height="200" src="https://raw.githubusercontent.com/Ahmed-Tedj-Eddine-Ramoul/Ahmed-Tedj-Eddine-Ramoul/main/profile.gif" />  
 </div>
 ###

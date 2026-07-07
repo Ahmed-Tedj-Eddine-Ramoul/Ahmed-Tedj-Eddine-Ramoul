@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Ahmed Tedj Eddine and I'm a Cyber Security enthusiast and a CS student, from Algeria.</h1>
+<h1 align="left"Cybersecurity enthusiast and software developer </h1>
 
 ###
 
